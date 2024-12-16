@@ -1,7 +1,7 @@
 # Desafio-Final-Caixa
 Desafio CAIXA - Criando Impacto Social Com IA. Esse projeto tem como objetivo gerar um ebook digital que listará alguns dos aplicativos para controle financeiro e de gestão pessoal. Isso foi feito com  ferramentas de IA, todos os prompts seguem abaixo. Além disso, também há o aúdio do livro.
 
-<a href="https://github.com/PedroGGoncalves/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook%20Java.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/PedroGGoncalves/Desafio-Final-Caixa/blob/main/files/ebook%20apps.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
