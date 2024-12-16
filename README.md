@@ -54,3 +54,14 @@ DaVinci:
 
 - Imagens geradas e utilizadas em `imgs`
 - Slides, ebook e áudio gerados em `files`
+  
+
+## 🧐 Processo de Criação
+Inicialmente, refleti muito sobre o que faria nesse projeto, então obtive a ideia de fazer algo que pudesse ajudar no cotidiano, então cogitei em sugerir alguns aplicativos que ajudam no dia-a-dia.
+
+Assim, com a ideia em mente, fui elaborar o título e os textos, com o auxílio do ChatGPT. Com isso em maõs, fui para elaboração da imagem da capa através do uso do Copilot, após muitas tentativas, finalmente cheguei próximo ao que queria e fiz apenas alguns ajustes utilizando o Paint.
+
+Em seguida, inicie o ebook usando o PowerPoint e usando todos os conhecimentos passados no Bootcamp. 
+
+No fim, pensei em incluir um áudio para ficar mais acessível e assim usei o ElevenLabs e conclui esse desafio.
+
