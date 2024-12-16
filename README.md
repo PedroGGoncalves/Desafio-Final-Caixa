@@ -21,8 +21,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um titulo de um ebook sobre o tema de aplicativos de gestão de dinheiro e de gestão pessoal, o ebook é do nicho de gestãto e os subnichos são economia e cotidiano, o titulo deve ser épico e sucinto e tenha uma temática de anime, me lista 5 variações de titulo. Se possível, faça uma analogia com o Naruto ou Nami de One piece                                                                        |
 | melhorar título |gere 5 titulos a partir desse: "A Jornada do Samurai Financeiro: Como Usar Apps para Controlar Sua Vida e Seu Dinheiro" |
-| melhorar frase |Melhore essa frase "A ideia desse ebook é apresentar alguns aplicativos que auxiliam na gestão de tarefas do cotidiano e para controle financeiro. Deste modo, esses aplicativos serão vistos e abordados de uma forma mais sucinta para facilitar o entendimento.
-" para que ela seja o preludio de um ebook sobre aplicativos para controle de tarefas do dia a dia e de controle financeiro |
+| melhorar frase |Melhore essa frase "A ideia desse ebook é apresentar alguns aplicativos que auxiliam na gestão de tarefas do cotidiano e para controle financeiro. Deste modo, esses aplicativos serão vistos e abordados de uma forma mais sucinta para facilitar o entendimento. " para que ela seja o preludio de um ebook sobre aplicativos para controle de tarefas do dia a dia e de controle financeiro |
 | melhorar notion |de um subtitulo para o capitulo sobre o notion
 "Notion: O Poder da Organização Personalizada" |
 | subtítulo |faça um texto para os capitulos para cada um dos aplicativos a seguir: notion, excel, pontofacil, controle financeiro pessoal e todoist |
